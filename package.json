@@ -1,0 +1,30 @@
+{
+  "name": "matcha-json-reporter",
+  "version": "1.0.0",
+  "description": "JSON reporter for matcha",
+  "author": "Stephen Belanger <admin@stephenbelanger.com>",
+  "main": "index.js",
+  "license": "MIT",
+  "homepage": "https://github.com/Qard/matcha-json-reporter#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Qard/matcha-json-reporter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Qard/matcha-json-reporter/issues"
+  },
+  "keywords": [
+    "matcha",
+    "reporter",
+    "json"
+  ],
+  "scripts": {
+    "test": "gulp --silent"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "concat-stream": "^1.5.0",
+    "gulp": "^3.9.0",
+    "gulp-matcha": "^1.1.0"
+  }
+}
