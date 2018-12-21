@@ -23,7 +23,7 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "concat-stream": "^1.5.0",
+    "concat-stream": "^2.0.0",
     "gulp": "^3.9.0",
     "gulp-matcha": "^1.1.0"
   }
